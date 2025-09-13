@@ -1,0 +1,17 @@
+ul{
+    background-color:burlywood;
+    list-style-type:none;
+    display: flex;
+    justify-content: end;
+}
+.navlink{
+    text-decoration: None;
+    padding: 7px;
+    margin:5px;
+    color:white;
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
